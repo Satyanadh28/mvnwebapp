@@ -2,6 +2,6 @@
 <body>
 <h2>Hello World!</h2>
   <h3>Sample Web Application built using Maven</h3>
-  <h4>HI Hello</h4>
+  <h4>Hi Hello Satya</h4>
 </body>
 </html>
